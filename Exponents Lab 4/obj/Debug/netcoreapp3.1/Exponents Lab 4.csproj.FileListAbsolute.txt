@@ -1,0 +1,13 @@
+C:\Users\Jerome\source\repos\Exponents Lab 4\Exponents Lab 4\bin\Debug\netcoreapp3.1\Exponents Lab 4.exe
+C:\Users\Jerome\source\repos\Exponents Lab 4\Exponents Lab 4\bin\Debug\netcoreapp3.1\Exponents Lab 4.deps.json
+C:\Users\Jerome\source\repos\Exponents Lab 4\Exponents Lab 4\bin\Debug\netcoreapp3.1\Exponents Lab 4.runtimeconfig.json
+C:\Users\Jerome\source\repos\Exponents Lab 4\Exponents Lab 4\bin\Debug\netcoreapp3.1\Exponents Lab 4.runtimeconfig.dev.json
+C:\Users\Jerome\source\repos\Exponents Lab 4\Exponents Lab 4\bin\Debug\netcoreapp3.1\Exponents Lab 4.dll
+C:\Users\Jerome\source\repos\Exponents Lab 4\Exponents Lab 4\bin\Debug\netcoreapp3.1\Exponents Lab 4.pdb
+C:\Users\Jerome\source\repos\Exponents Lab 4\Exponents Lab 4\obj\Debug\netcoreapp3.1\Exponents Lab 4.csprojAssemblyReference.cache
+C:\Users\Jerome\source\repos\Exponents Lab 4\Exponents Lab 4\obj\Debug\netcoreapp3.1\Exponents Lab 4.AssemblyInfoInputs.cache
+C:\Users\Jerome\source\repos\Exponents Lab 4\Exponents Lab 4\obj\Debug\netcoreapp3.1\Exponents Lab 4.AssemblyInfo.cs
+C:\Users\Jerome\source\repos\Exponents Lab 4\Exponents Lab 4\obj\Debug\netcoreapp3.1\Exponents Lab 4.csproj.CoreCompileInputs.cache
+C:\Users\Jerome\source\repos\Exponents Lab 4\Exponents Lab 4\obj\Debug\netcoreapp3.1\Exponents Lab 4.dll
+C:\Users\Jerome\source\repos\Exponents Lab 4\Exponents Lab 4\obj\Debug\netcoreapp3.1\Exponents Lab 4.pdb
+C:\Users\Jerome\source\repos\Exponents Lab 4\Exponents Lab 4\obj\Debug\netcoreapp3.1\Exponents Lab 4.genruntimeconfig.cache
